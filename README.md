@@ -1,5 +1,4 @@
-# Prediction-of-health-expenses 
-## CRISP-DM model
+# CRISP-DM model Prediction-of-health-expenses 
 * In this project I tried to predict the health expenses of the patients of a particular hospital based upon the data taken from the hospital.
 * I worked with the CRISP-DM model for this project
 * Applied decision tree algorithm to predict the expenses.
